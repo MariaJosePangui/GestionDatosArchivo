@@ -1,0 +1,2 @@
+Tipo: EmpleadoAsalariado, Nombre: Javier, Salario: $750000.0
+Tipo: EmpleadoPorHoras, Nombre: Catalina, Salario: $1500000.0
